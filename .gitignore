@@ -1,0 +1,6 @@
+.DS_Store
+
+/Hybrid/bin/**
+
+/src/bin/**
+/src/obj/**

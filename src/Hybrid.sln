@@ -1,0 +1,16 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{4715f28d-95c8-4791-a66c-3a56d3b15672}") = "Hybrid", "Hybrid.csproj", "{ce9d627a-9f7e-47cd-b233-954cd25f6f70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ce9d627a-9f7e-47cd-b233-954cd25f6f70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ce9d627a-9f7e-47cd-b233-954cd25f6f70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ce9d627a-9f7e-47cd-b233-954cd25f6f70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ce9d627a-9f7e-47cd-b233-954cd25f6f70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
