@@ -1,10 +1,7 @@
-using namespace Intacct.SDK
 function New-IntacctSession {
 
     [CmdletBinding()]
-    param (
-        
-    )
+    param ()
 
     Write-Host "New-IntacctSession"
 
